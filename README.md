@@ -25,3 +25,6 @@ A breakdown of what days of the week a user might be more likely to check out a 
 create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis you did in the module and in Deliverable 2.
 
 ## Resources:
+Data:  updated_201908-citibike-tripdata.csv
+Software: jupyter notebook, Tableau
+Other:
