@@ -1,8 +1,6 @@
 # Bikesharing:  NY Citibike with Tableau
 ## Overview:
-This analysis was created to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. One of the key stakeholders requested a bike trip analysis, which has been prepared using Tableau.  The data utilized was from a popular bikesharing business known as Citibike located in the New York City area.  The data is for for the month of August, 2008. 
-
-To prepare this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype and then exported the new csv to create the visualizations in this proposal.
+This analysis was created to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. One of the key stakeholders requested a bike trip analysis, which has been prepared using Tableau.  The data utilized was from a popular bikesharing business known as Citibike located in the New York City area.  The data is for for the month of August, 2019. 
 
 Please use the following [link](https://public.tableau.com/views/Citibike_Challenge_16581173552890/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) to view the Tableau Story: 
 
@@ -54,7 +52,7 @@ The following dashboard was created to show the most popular locations to start 
 ## Summary
 The NY Citibike program is incredibly popular and successful.  This program could easily translate to the city of Des Moines!  Considering the city’s 68 miles of paved trails (which serves as a nucleus to over 550 miles in Central Iowa), with users taking over one million trail trips annually throughout the year, (https://www.dsm.city/departments/parks_and_recreation-division/places/trails.php), this program would be useful to residents and tourists, alike!  Whether its biking for exercise, commuting, or adventure, the NY Citibike data shows that bikes are in demand. 
 
-It also important to note that in its first six months of operation, NY Citibike gained over 100,000 subscribers.  Overall, the program has become integral to the daily commuters of New York City, along with being utilized by tourists, and is happening even during the snowy, wintery months! (https://wagner.nyu.edu/rudincenter/2014/02/why-citi-bike-so-successful)
+As of July 2019, NY Citibike has over 169,000 annual subscribers and is the largest bikesharing program in the nation (https://en.wikipedia.org/wiki/Citi_Bike).  Overall, the program has become integral to the daily commuters of New York City, along with being utilized by tourists, and is happening even during the snowy, wintery months! (https://wagner.nyu.edu/rudincenter/2014/02/why-citi-bike-so-successful)
 
 In order to further explore this business opportunity, I would recommend the following additional analysis be performed, including:
 
@@ -62,7 +60,7 @@ In order to further explore this business opportunity, I would recommend the fol
 
 2.) A visualization that explores the number of trips for each month of the year to explore seasonality of the program; and 
 
-3.) A visualization that explores the number of rides by customer type (subscribers and single use riders) over the first five years of the program to explore program expansion and sustainability. 
+3.) A visualization that explores the number of rides by customer type (subscribers and single use riders) over the first five to ten years of the program to explore program expansion and sustainability. 
 
 ## Resources:
 Data:  updated_201908-citibike-tripdata.csv
