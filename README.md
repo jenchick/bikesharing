@@ -1,6 +1,6 @@
 # Bikesharing:  NY Citibike with Tableau
 ## Overview:
-This analysis was created to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. One of the key stakeholders requested a bike trip analysis, which has been prepared using Tableau.  The data utilized was for the month of August. 
+This analysis was created to help convince investors that a bike-sharing program in Des Moines is a solid business proposal. One of the key stakeholders requested a bike trip analysis, which has been prepared using Tableau.  The data utilized was from a popular bikesharing business known as Citibike located in the New York City area.  The data is for for the month of August, 2008. 
 
 To prepare this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype and then exported the new csv to create the visualizations in this proposal.
 
