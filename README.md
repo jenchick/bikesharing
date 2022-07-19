@@ -8,6 +8,10 @@ To prepare this analysis, I used Pandas to change the "tripduration" column from
 ## Results
 Describe the results/key outcomes of each visualization underneath the image/pitch to investors.
 
+
+
+  
+
 ### length of time that bikes are checked out for all riders and genders
 
 ![image](https://user-images.githubusercontent.com/102322707/179815100-8c6c3b37-4ee2-4a19-a852-a1d4185e0ce9.png)
@@ -18,24 +22,30 @@ Describe the results/key outcomes of each visualization underneath the image/pit
 
 ![image](https://user-images.githubusercontent.com/102322707/179815385-99bea8e6-e3dd-4ddc-94dd-7da5b3f81e77.png)
 
+This visualization provides an overview of the most popular hours for renting bikes which are the 5PM, 6PM, and 8AM hours, respectively. These hours coincide with job commute start/stop times.  There is a substantial amount of rentals throughout the day from 7AM up until 9PM, with rentals winding down between the hours of 9PM to 6AM.
+
 ![image](https://user-images.githubusercontent.com/102322707/179815766-d7166232-081d-4b1f-bb0a-b33316ecc2ee.png)
 
 ### number of bike trips for each type of user and gender for each day of the week.
 
 ![image](https://user-images.githubusercontent.com/102322707/179815911-94758978-2318-404d-b705-9240538377ab.png)
 
-### additional information
-
+### Locations
+Created Dashboard of Top Starting and Top Ending Locations for comparison.
 ![image](https://user-images.githubusercontent.com/102322707/179816028-a02b62bb-51df-4045-8b3b-5d1d445ddfee.png)
 
-![image](https://user-images.githubusercontent.com/102322707/179816133-05eb81fb-0243-47a6-a34f-36a9fcdc9939.png)
+### Subscribers
+![image](https://user-images.githubusercontent.com/102322707/179827059-5a760ed5-4b82-461d-9767-6448923f2664.png)
 
-### Deliverable 3: Create a Story and Report for the Final Presentation
-create a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis you did in the module and in Deliverable 2.
+Dedicated subscribers make up the bulk of rentals.  
 
 ## Summary
 Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
+### Popular Age Groups
+![image](https://user-images.githubusercontent.com/102322707/179822273-7e79bbfa-1cc2-4130-a832-30b7b2b007cf.png)
+
+### Bike Utilization
 
 
 ## Resources:
