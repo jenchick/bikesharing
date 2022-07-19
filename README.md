@@ -4,10 +4,16 @@ This analysis was created to help convince investors that a bike-sharing program
 
 To prepare this analysis, I used Pandas to change the "tripduration" column from an integer to a datetime datatype and then exported the new csv to create the visualizations in this proposal.
 
-Please use the following link to view the Tableau Story: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Please use the following [link](https://public.tableau.com/views/Citibike_Challenge_16581173552890/Story1?:language=en-US&:display_count=n&:origin=viz_share_link) to view the Tableau Story: 
+
 
 ## Results
 The key outcomes of this analysis are outlined below.  
+
+### Who is riding?
+Everyone is riding!  The number of rides tapers down for the oldest and youngest of riders, but the following graph is evidence that riding is for everyone.
+
+![image](https://user-images.githubusercontent.com/102322707/179822273-7e79bbfa-1cc2-4130-a832-30b7b2b007cf.png)
 
 ### Trip Duration
 
@@ -46,18 +52,17 @@ The following dashboard was created to show the most popular locations to start 
 ![image](https://user-images.githubusercontent.com/102322707/179816028-a02b62bb-51df-4045-8b3b-5d1d445ddfee.png)
 
 ## Summary
-The NY Citibike program is incredibly popular and successful.  It is even being used by all age groups, as indicated by the following chart:
+The NY Citibike program is incredibly popular and successful.  This program could easily translate to the city of Des Moines!  Considering the city’s 68 miles of paved trails (which serves as a nucleus to over 550 miles in Central Iowa), with users taking over one million trail trips annually throughout the year, (https://www.dsm.city/departments/parks_and_recreation-division/places/trails.php), this program would be useful to residents and tourists, alike!  Whether its biking for exercise, commuting, or adventure, the NY Citibike data shows that bikes are in demand. 
 
-![image](https://user-images.githubusercontent.com/102322707/179822273-7e79bbfa-1cc2-4130-a832-30b7b2b007cf.png)
+It also important to note that in its first six months of operation, NY Citibike gained over 100,000 subscribers.  Overall, the program has become integral to the daily commuters of New York City, along with being utilized by tourists, and is happening even during the snowy, wintery months! (https://wagner.nyu.edu/rudincenter/2014/02/why-citi-bike-so-successful)
 
-The utilization rate is incredible, as shown by the following graph:
+In order to further explore this business opportunity, I would recommend the following additional analysis be performed, including:
 
-************************put chart here*******************************
+1.) A visualization showing the population and tourism numbers for New York City compared to Des Moines in order to properly scale the program; and
 
-This program could easily translate to the city of Des Moines!  Considering the city’s 68 miles of paved trails (which serves as a nucleus to over 550 miles in Central Iowa), with users taking over one million trail trips annually throughout the year, (https://www.dsm.city/departments/parks_and_recreation-division/places/trails.php), this program would be useful to residents and tourists, alike!  Whether its biking for exercise, commuting, or adventure, the NYC data shows that bikes are in demand. 
+2.) A visualization that explores the number of trips for each month of the year to explore seasonality of the program; and 
 
-In its first six months of operation, NY Citibike gained 100,000 subscribers.  Overall, the program has become integral to the daily commuters of New York City, along with being utilized by tourists, and is happening even during the snowy, wintery months! (https://wagner.nyu.edu/rudincenter/2014/02/why-citi-bike-so-successful)
-
+3.) A visualization that explores the number of rides by customer type (subscribers and single use riders) over the first five years of the program to explore program expansion and sustainability. 
 
 ## Resources:
 Data:  updated_201908-citibike-tripdata.csv
