@@ -8,27 +8,32 @@ To prepare this analysis, I used Pandas to change the "tripduration" column from
 ## Results
 Describe the results/key outcomes of each visualization underneath the image/pitch to investors.
 
-
-
-  
-
 ### length of time that bikes are checked out for all riders and genders
 
+This line graph displays the number of bikes checked out by duration for all users, and the graph can be filtered by the hour.
 ![image](https://user-images.githubusercontent.com/102322707/179815100-8c6c3b37-4ee2-4a19-a852-a1d4185e0ce9.png)
 
+This line graph displays the number of bikes that are checked out by duration for each gender by the hour, and the graph can be filtered by the hour and gender.
 ![image](https://user-images.githubusercontent.com/102322707/179815193-66a9be8b-354e-48bf-99dd-2baa8b5d23c2.png)
 
 ### number of bike trips for all riders and genders for each hour of each day of the week
 
+The following heatmap shows the number of bike trips for each hour of each day. It appears that the most popular time to rent is on the weekends, along with regular commuter times during the weekday (the hours of 5PM, 6PM, and 8AM, respectively.) There is a substantial amount of rentals throughout the day from 7AM up until 9PM, with rentals winding down between the hours of 9PM to 6AM.
+
 ![image](https://user-images.githubusercontent.com/102322707/179815385-99bea8e6-e3dd-4ddc-94dd-7da5b3f81e77.png)
 
-This visualization provides an overview of the most popular hours for renting bikes which are the 5PM, 6PM, and 8AM hours, respectively. These hours coincide with job commute start/stop times.  There is a substantial amount of rentals throughout the day from 7AM up until 9PM, with rentals winding down between the hours of 9PM to 6AM.
 
+This heatmap shows the number of bike trips by gender for each hour of each day of the week, and the heatmap can be filtered by gender. 
 ![image](https://user-images.githubusercontent.com/102322707/179815766-d7166232-081d-4b1f-bb0a-b33316ecc2ee.png)
 
+
+
 ### number of bike trips for each type of user and gender for each day of the week.
+This heatmap shows the number of bike trips for each type of user and gender for each day of the week, and you can only filter by user and gender.
 
 ![image](https://user-images.githubusercontent.com/102322707/179815911-94758978-2318-404d-b705-9240538377ab.png)
+
+
 
 ### Locations
 Created Dashboard of Top Starting and Top Ending Locations for comparison.
